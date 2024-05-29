@@ -5,5 +5,4 @@ name = input("What's your name? ")
 """"
 This is a multiline comment
 """
-print("Hello, ", end="")
-print(name)
+print("Hello,", name)
