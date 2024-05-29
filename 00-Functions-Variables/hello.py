@@ -5,6 +5,6 @@ name = input("What's your name? ")
 """"
 This is a multiline comment
 """
-print("Hello, {name}")
+print(f"Hello, {name}")
 
 print("Hello, \"friend\"")
