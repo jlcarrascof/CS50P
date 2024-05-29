@@ -7,4 +7,4 @@ This is a multiline comment
 """
 print("Hello,", name, sep="")
 
-print("Hello, "friend"")
+print("Hello, \"friend\"")
