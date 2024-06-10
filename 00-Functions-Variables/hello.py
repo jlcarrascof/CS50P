@@ -7,4 +7,4 @@ This is a multiline comment
 """
 print(f"Hello, {name}")
 
-print("Hello, \"friend\"")
+# print("Hello, \"friend\"")
