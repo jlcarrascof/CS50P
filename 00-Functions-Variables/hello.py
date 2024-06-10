@@ -5,6 +5,11 @@ name = input("What's your name? ")
 """"
 This is a multiline comment
 """
+
+# Remove whitespace from str
+
+name = name.strip()
+
 print(f"Hello, {name}")
 
 # print("Hello, \"friend\"")
