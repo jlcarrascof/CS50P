@@ -7,8 +7,13 @@ This is a multiline comment
 """
 
 # Remove whitespace from str
-
 name = name.strip()
+
+# Capitalize user's name
+name = name.capitalize()
+
+# Capitalize all the first letters
+name = name.title()
 
 print(f"Hello, {name}")
 
