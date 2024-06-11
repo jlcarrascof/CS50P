@@ -1,10 +1,6 @@
 # Ask user for their name
-name = input("What's your name? ")
+name = input("What's your name? ").strip().title()
 
-# Say hello to the user
-""""
-This is a multiline comment
-"""
 print(f"Hello, {name}")
 
-print("Hello, \"friend\"")
+# print("Hello, \"friend\"")
