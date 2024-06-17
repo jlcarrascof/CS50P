@@ -4,5 +4,6 @@ def get_guess():
 
 def main():
     guess = get_guess()
+    print(guess)
 
 main()
