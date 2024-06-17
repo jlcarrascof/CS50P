@@ -3,3 +3,5 @@ def greet(input):
         print("Hello, there!")
     else:
         print("I'm not sure what you mean")
+
+greet("hello, computer")
