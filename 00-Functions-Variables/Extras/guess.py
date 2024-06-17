@@ -2,4 +2,7 @@ def get_guess():
     guess = input("Enter a guess: ")
     return guess
 
-print(get_guess())
+def main():
+    guess = get_guess()
+
+main()
