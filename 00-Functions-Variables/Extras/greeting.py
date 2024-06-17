@@ -4,4 +4,6 @@ def greet(input):
     else:
         return "I'm not sure what you mean"
 
-greet("hello, computer")
+greeting = greet("hello, computer")
+
+print(greeting)
