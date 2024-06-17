@@ -1,7 +1,7 @@
 def greet(input):
     if "hello" in input:
-        print("Hello, there!")
+        return "Hello, there!"
     else:
-        print("I'm not sure what you mean")
+        return "I'm not sure what you mean"
 
 greet("hello, computer")
