@@ -1,3 +1,3 @@
-your_input = input("What's your input? ")
+your_input = input()
 
-print ("You entered: " + your_input + " and in lower case is: " + your_input.lower())
+print (your_input.lower())
