@@ -8,3 +8,9 @@ def convert(str):
     elif ":)" in str:
         str = str.replace(":)", "🙂")
     return str
+
+def main():
+    str = input()
+    print(convert(str))
+
+main()
