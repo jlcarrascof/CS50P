@@ -5,7 +5,7 @@
 def convert(str):
     if ":(" in str:
         str = str.replace(":(", "🙁")
-    elif ":)" in str:
+    if ":)" in str:
         str = str.replace(":)", "🙂")
     return str
 
