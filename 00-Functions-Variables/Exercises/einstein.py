@@ -3,7 +3,7 @@
 # Einstein
 
 def main():
-    m = int((input("M: ")))
+    m = int((input("m: ")))
     c = 300000000
     e = m * (c ** 2)
     print("E =" , e)
