@@ -1,4 +1,4 @@
 # CS50P
 Backup repository for CS50's Introduction to Programming with Python
 
-28-05-2024: 45 Minutos.
+19-06-2024: Finished CS50P - 00-Functions-Variables.
